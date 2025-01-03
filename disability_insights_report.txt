@@ -1,0 +1,75 @@
+
+    Disability Data Insights Report
+    -------------------------------
+    1. Mobility Award Types Distribution:
+    Mobility award type
+Higher Rate    33613
+Lower Rate     22188
+Name: count, dtype: int64
+
+    2. Top Disabling Conditions by Population:
+    Disabling condition
+Learning Difficulties                                  187511.0
+Psychosis                                              183426.0
+Arthritis                                              176066.0
+Psychoneurosis                                         119718.0
+Back Pain - Other / Precise Diagnosis not Specified     86070.0
+Name: Population count, dtype: float64
+
+    3. Gender Distribution by Award Type:
+    Gender                 Female      Male
+Mobility award type                    
+Higher Rate          414000.0  318531.0
+Lower Rate           289702.0  323847.0
+
+    4. Regional Analysis of Disabling Conditions:
+    Disabling condition
+AIDS                                                              2824.0
+Alcohol and Drug Abuse                                            9568.0
+Arthritis                                                       176066.0
+Asthma                                                            8735.0
+Back Pain - Other / Precise Diagnosis not Specified              86070.0
+Behavioral Disorder                                               8339.0
+Blindness                                                        36307.0
+Blood Disorders                                                   1146.0
+Bowel and Stomach Disease                                         3816.0
+Cerebrovascular Disease                                          37733.0
+Chest Disease                                                    29052.0
+Chronic Pain Syndromes                                           31561.0
+Cognitive disorder - other / precise diagnosis not specified       173.0
+Cystic Fibrosis                                                    504.0
+Deaf/Blind                                                          18.0
+Deafness                                                         14513.0
+Dementia                                                          3051.0
+Diabetes Mellitus                                                11422.0
+Disease Of The Muscles  Bones or Joints                          66803.0
+Double Amputee                                                      74.0
+Epilepsy                                                         44802.0
+Haemodialysis                                                        6.0
+Haemophilia                                                        151.0
+Heart Disease                                                    28614.0
+Hyperkinetic Syndrome                                            11731.0
+Inflammatory Bowel Disease                                        2279.0
+Learning Difficulties                                           187511.0
+Major Trauma Other than Traumatic Paraplegia/Tetraplegia         11127.0
+Malignant Disease                                                15376.0
+Metabolic Disease                                                 4733.0
+Motor Neurone Disease                                              138.0
+Multi System Disorders                                            5206.0
+Multiple Allergy Syndrome                                            5.0
+Multiple Sclerosis                                               37087.0
+Neurological Diseases                                            63598.0
+Parkinsons Disease                                                4926.0
+Peripheral vascular Disease                                       6382.0
+Personality Disorder                                             14980.0
+Psychoneurosis                                                  119718.0
+Psychosis                                                       183426.0
+Renal Disorders                                                   5640.0
+Severely Mentally impaired                                        9783.0
+Skin Disease                                                      2398.0
+Spondylosis                                                      26885.0
+Terminally Ill                                                    5623.0
+Trauma to Limbs                                                  20808.0
+Traumatic Paraplegia/Tetraplegia                                  5372.0
+dtype: float64
+    

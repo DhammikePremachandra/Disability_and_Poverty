@@ -1,0 +1,67 @@
+
+    Disabling Conditions and Mobility Award Types Analysis
+    -----------------------------------------------------
+    Total Mobility Award Distribution by Disabling Condition:
+    Mobility award type                                 Higher Rate  Lower Rate
+Disabling condition                                                        
+AIDS                                                     2619.0       205.0
+Alcohol and Drug Abuse                                   2954.0      6614.0
+Arthritis                                              170048.0      6018.0
+Asthma                                                   8581.0       154.0
+Back Pain - Other / Precise Diagnosis not Speci...      83713.0      2357.0
+Behavioral Disorder                                       522.0      7817.0
+Blindness                                               14186.0     22121.0
+Blood Disorders                                          1132.0        14.0
+Bowel and Stomach Disease                                3677.0       139.0
+Cerebrovascular Disease                                 31562.0      6171.0
+Chest Disease                                           28703.0       349.0
+Chronic Pain Syndromes                                  29562.0      1999.0
+Cognitive disorder - other / precise diagnosis ...         11.0       162.0
+Cystic Fibrosis                                           504.0         0.0
+Deaf/Blind                                                 18.0         0.0
+Deafness                                                  456.0     14057.0
+Dementia                                                  312.0      2739.0
+Diabetes Mellitus                                        7887.0      3535.0
+Disease Of The Muscles  Bones or Joints                 63348.0      3455.0
+Double Amputee                                             74.0         0.0
+Epilepsy                                                 5092.0     39710.0
+Haemodialysis                                               6.0         0.0
+Haemophilia                                               151.0         0.0
+Heart Disease                                           27280.0      1334.0
+Hyperkinetic Syndrome                                       0.0     11731.0
+Inflammatory Bowel Disease                               2181.0        98.0
+Learning Difficulties                                   26106.0    161405.0
+Major Trauma Other than Traumatic Paraplegia/Te...       6145.0      4982.0
+Malignant Disease                                       14187.0      1189.0
+Metabolic Disease                                        4704.0        29.0
+Motor Neurone Disease                                     138.0         0.0
+Multi System Disorders                                   5154.0        52.0
+Multiple Allergy Syndrome                                   5.0         0.0
+Multiple Sclerosis                                      36744.0       343.0
+Neurological Diseases                                   51537.0     12061.0
+Parkinsons Disease                                       4911.0        15.0
+Peripheral vascular Disease                              6367.0        15.0
+Personality Disorder                                      248.0     14732.0
+Psychoneurosis                                           7589.0    112129.0
+Psychosis                                                7977.0    175449.0
+Renal Disorders                                          5563.0        77.0
+Severely Mentally impaired                               9783.0         0.0
+Skin Disease                                             2392.0         6.0
+Spondylosis                                             26783.0       102.0
+Terminally Ill                                           5623.0         0.0
+Trauma to Limbs                                         20624.0       184.0
+Traumatic Paraplegia/Tetraplegia                         5372.0         0.0
+    
+    Top 3 Conditions by Total Population Count:
+    Disabling condition
+Learning Difficulties    187511.0
+Psychosis                183426.0
+Arthritis                176066.0
+dtype: float64
+    
+    Top 3 Award Types by Total Population Count:
+    Mobility award type
+Higher Rate    732531.0
+Lower Rate     613549.0
+dtype: float64
+    
